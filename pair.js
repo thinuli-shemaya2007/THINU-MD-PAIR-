@@ -69,7 +69,7 @@ ______________________________________
 ║❒ *Ytube:* _youtube.com/@wasitech1_
 ║❒ *Owner:* _https://wa.me/94701240689_
 ║❒ *Repo:* _https://github.com/thinuli-shemaya2007/THINU-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+║❒ *WaGroup:* _https://chat.whatsapp.com/JSKcxmzG8O168Xa91PYgk9
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
 ║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
 ╚════════════════════════╝
