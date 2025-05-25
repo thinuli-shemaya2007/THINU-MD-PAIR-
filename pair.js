@@ -57,11 +57,11 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_Pair Code Connected by THINU MD*
+*_Made With THINULI SHEMAYA ❤️_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
+║ *『 WOW YOU'VE CHOSEN THINU MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
@@ -71,7 +71,7 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/thinuli-shemaya2007/THINU-MD
 ║❒ *WaGroup:* _https://chat.whatsapp.com/JSKcxmzG8O168Xa91PYgk9
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAqxohKgsNtyW9Vcn06
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Plugins:* _https://github.com/thinuli-shemaya2007/THINU-MD/tree/main/plugins
 ╚════════════════════════╝
 _____________________________________
 
