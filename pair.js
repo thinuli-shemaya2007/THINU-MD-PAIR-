@@ -66,7 +66,7 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
+║❒ *Ytube:* https://www.youtube.com/@PINKY_LIVE_FF
 ║❒ *Owner:* _https://wa.me/94701240689_
 ║❒ *Repo:* _https://github.com/thinuli-shemaya2007/THINU-MD
 ║❒ *WaGroup:* _https://chat.whatsapp.com/JSKcxmzG8O168Xa91PYgk9
